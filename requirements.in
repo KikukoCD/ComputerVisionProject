@@ -1,0 +1,22 @@
+numpy
+scipy
+pandas
+matplotlib
+# Do not include tensorflow in requirements. It instead should be tuned to the system
+# tensorflow
+jupyter
+opencv-python
+moviepy
+Augmentor
+imgaug
+tensorflow-datasets
+pydot
+wandb
+tensorboard_plugin_profile
+simple-parsing
+sklearn
+PyYAML
+tqdm
+seaborn
+git+https://github.com/EgorDm/pandas-ml.git
+git+https://github.com/jazzband/pip-tools.git
